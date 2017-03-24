@@ -51,12 +51,12 @@ medium: nikhilacharya
 email: nikhilvacharya@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    nikhilacharya:
+        name: Nikhil Acharya
+        bio: Making the world a better place, one pixel at a time
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: nichromic
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
