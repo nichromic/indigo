@@ -46,7 +46,7 @@ github: nichromic
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: nikhilacharya
+# medium: nikhilacharya
 # vimeo: myvimeo
 email: nikhilvacharya@gmail.com
 
@@ -57,12 +57,7 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: nichromic
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
